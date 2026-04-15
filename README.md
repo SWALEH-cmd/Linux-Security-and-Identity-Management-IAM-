@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/42304628-4854-48a5-ae5f-fb63c9afb0a5" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/d43e54ab-68e9-470b-b3e2-18c2c8a5216a" />
 # Linux-Security-and-Identity-Management-IAM-
 ## Overview
 -Today i focused on how linux handles users, groups, and file-level security. Understanding these "locks" is critical for protecting cloud servers from unauthorised access.
